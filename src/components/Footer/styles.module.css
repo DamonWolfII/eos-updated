@@ -1,0 +1,174 @@
+@media (min-width: 1024px) {
+    .top {
+      padding: 7rem 4rem 2.5rem;
+    }
+  
+    .logo {
+      width: 16rem;
+    }
+  
+    .head {
+      font-size: 1.5rem;
+    }
+  
+    .socials {
+    }
+  
+    .lists {
+      width: 67%;
+    }
+  
+    .list {
+    }
+  
+    .head {
+    }
+  }
+  
+  @media (min-width: 834px) and (max-width: 1023px) {
+    .top {
+      padding: 7rem 2rem 2.5rem;
+    }
+  
+    .logo {
+      width: 12rem;
+    }
+  
+    .head {
+      font-size: 1.2rem;
+    }
+  
+    .socials {
+      gap: 1.5rem;
+    }
+  
+    .social {
+      height: 1.3rem;
+    }
+  
+    .lists {
+      width: 67%;
+    }
+  
+    .list {
+    }
+  
+    .head {
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 833px) {
+    .top {
+      padding: 7rem 2rem 2.5rem;
+    }
+  
+    .logo {
+      width: 12rem;
+    }
+  
+    .head {
+      font-size: 1.2rem;
+    }
+  
+    .socials {
+      gap: 1.5rem;
+    }
+  
+    .social {
+      height: 1.3rem;
+    }
+  
+    .lists {
+      width: 67%;
+    }
+  
+    .list {
+    }
+  
+    .head {
+    }
+  }
+  
+  @media (min-width: 480px) and (max-width: 767px) {
+    .top {
+      padding: 7rem 3rem 4rem;
+      flex-direction: column;
+      gap: 3rem;
+    }
+    .logo {
+      width: 100%;
+      justify-content: start;
+    }
+  
+    .head {
+      font-size: 1.5rem;
+      justify-content: start;
+    }
+  
+    .socials {
+      gap: 1.5rem;
+      justify-content: start;
+    }
+  
+    .social {
+      height: 1.3rem;
+    }
+  
+    .lists {
+      width: 100%;
+      flex-direction: column;
+      gap: 4rem;
+    }
+  
+    .list {
+    }
+  
+    .head {
+    }
+  }
+  
+  @media (max-width: 479px) {
+    .top {
+      padding: 7rem 3rem 4rem;
+      flex-direction: column;
+      gap: 3rem;
+    }
+    .logo {
+      width: 100%;
+      justify-content: start;
+    }
+  
+    .head {
+      font-size: 1.5rem;
+      justify-content: start;
+    }
+  
+    .socials {
+      gap: 1.5rem;
+      justify-content: start;
+    }
+  
+    .social {
+      height: 1.3rem;
+    }
+  
+    .lists {
+      width: 100%;
+      flex-direction: column;
+      gap: 4rem;
+    }
+  
+    .list {
+    }
+  
+    .head {
+    }
+    .copyright {
+      padding: 0 0.5rem;
+    }
+    .copy {
+      font-size: small;
+      padding: 2rem 2rem;
+    }
+  }
+  

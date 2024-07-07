@@ -1,0 +1,11 @@
+@media (max-width: 1024px) {
+    .container {
+      flex-wrap: wrap;
+      gap: 4rem;
+    }
+  
+    .img {
+      width: 80%;
+    }
+  }
+  

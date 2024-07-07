@@ -1,0 +1,95 @@
+@media (min-width: 1024px) and (max-width: 1440px) {
+    .card {
+    }
+  
+    .name {
+      font-size: 0.9rem;
+    }
+  
+    .title {
+      font-size: 0.55rem;
+    }
+  }
+  
+  @media (min-width: 834px) and (max-width: 1023px) {
+    .section {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+    .card {
+      width: 20%;
+    }
+  
+    .name {
+      font-size: 0.8rem;
+    }
+  
+    .title {
+      font-size: 0.5rem;
+    }
+    .personDetail {
+      padding-bottom: 5%;
+      padding-top: 1%;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 833px) {
+    .card {
+      width: 20%;
+    }
+    .name {
+      font-size: 0.8rem;
+    }
+  
+    .title {
+      font-size: 0.46rem;
+    }
+    .personDetail {
+      padding-bottom: 5%;
+      padding-top: 1%;
+    }
+  }
+  
+  @media (min-width: 480px) and (max-width: 767px) {
+    .card {
+      width: 25%;
+    }
+    .name {
+      font-size: 0.8rem;
+    }
+  
+    .title {
+      font-size: 0.45rem;
+      line-height: 100%;
+    }
+    .personDetail {
+      padding-bottom: 5%;
+      padding-top: 1%;
+    }
+  }
+  
+  @media (max-width: 479px) {
+    .section {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+    .container {
+      gap: 1rem;
+    }
+    .card {
+      width: 30%;
+    }
+    .name {
+      font-size: 0.6rem;
+    }
+  
+    .title {
+      font-size: 0.35rem;
+      line-height: 100%;
+    }
+    .personDetail {
+      padding-bottom: 5%;
+      padding-top: 1%;
+    }
+  }
+  

@@ -1,0 +1,54 @@
+@media (min-width: 1024px) and (max-width: 1440px) {
+    .nav {
+      /* padding: 0.5rem 3rem; */
+    }
+    .list {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media (min-width: 834px) and (max-width: 1023px) {
+    .nav {
+      /* padding: 0.5rem 2rem; */
+    }
+  
+    .list {
+      width: 23rem;
+      font-size: 0.8rem;
+    }
+    .contact {
+      padding: 0.6rem 0.8rem;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 833px) {
+    .nav {
+      /* padding: 0.4rem 2rem; */
+    }
+    .list {
+      width: 20rem;
+      font-size: 0.75rem;
+    }
+    .contact {
+      padding: 0.6rem 0.7rem;
+    }
+  }
+  
+  @media (min-width: 480px) and (max-width: 767px) {
+    .nav {
+      /* padding: 0.3rem 1.8rem; */
+    }
+    .logo {
+      height: 4.5rem;
+    }
+  }
+  
+  @media (max-width: 479px) {
+    .nav {
+      /* padding: 0.2rem 1.5rem; */
+    }
+    .logo {
+      height: 4rem;
+    }
+  }
+  
