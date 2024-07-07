@@ -78,7 +78,7 @@ const Team = () => {
               img="/assets/members/Sarwesh.jpeg"
               name="Sarwesh Kattel"
               title="Computer Engineer"
-              link="./"
+              link="/members/sarwesh"
             />
             <Member
               img="/assets/members/utsav.jpg"
